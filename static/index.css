@@ -1,0 +1,47 @@
+body {
+    margin: 0px;
+    color: #DFE4ED;
+    background: #212121;
+    font-family: "Roboto", sans-serif;
+  }
+  button {
+    border: none;
+    border-radius: 10px;
+    background: #B92F44;
+    padding: 10px 20px;
+    color: #DFE4ED;
+    font-family: "Roboto", sans-serif;
+  }
+  #Lnav {
+    float: left;
+  }
+  #Rnav {
+    float: right;
+  }
+  #nav button {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  #nav {
+    position: relative;
+    top: -45px;
+  }
+  #BGnav {
+    padding: 28px 49%;
+    background: #DFE4ED;
+  }
+  #text {
+    width: 1000px;
+    font-family: "Roboto", sans-serif;
+    color: #DFE4ED;
+    margin: 0;
+    clear: both;
+  }
+  #container {
+    position: relative;
+    top: -42px;
+  }
+  .indentation {
+    position: relative;
+    left: 50px;
+  }
